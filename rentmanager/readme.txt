@@ -3,7 +3,7 @@ Projet RentManager
 Guillaume OLIVIER
 guillaume.olivier@epfedu.fr
 
-commande pour lance le site : mvn tomcat7:run
+commande pour lancer le site : mvn tomcat7:run
 
 -home : nombre de clients, reservations et vehicules
 - 3 menus : utilisateurs, voitures et reservations
