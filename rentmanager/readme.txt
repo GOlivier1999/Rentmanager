@@ -5,7 +5,7 @@ guillaume.olivier@epfedu.fr
 
 commande pour lance le site : mvn tomcat7:run
 
--home : nombre de client, reservation et vehicule
+-home : nombre de clients, reservations et vehicules
 - 3 menus : utilisateurs, voitures et reservations
 -Pour chaque menu, liste des mebres  + 4 actions :
    - ajouter, pour ajouter un membre
